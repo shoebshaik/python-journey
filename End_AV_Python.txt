@@ -1,0 +1,10 @@
+Now, as you have enough knowledge of Python. To dive deeper into the field of Data Science and to learn about Statistics and Machine Learning, enroll on Introduction to Data science course which covers statistics and basics of machine learning with real life projects.
+
+In Introduction to Data Science we will cover following topics:
+
+Introduction to Data Science (Already covered in this course)
+Basic Python for Data Science (Already covered in this course)
+Understanding Statistics for Data science
+Predictive Modeling and the basics of Machine Learning
+Projects
+Enroll now! Happy Learning!
